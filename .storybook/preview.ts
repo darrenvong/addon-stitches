@@ -1,4 +1,4 @@
-import { Preview } from '@storybook/react';
+import { Preview } from '@storybook/react-vite';
 import { darkTheme, lightTheme } from "../src/stitches.config";
 import { ThemesParameter } from "../dist";
 
